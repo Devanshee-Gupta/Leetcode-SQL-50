@@ -22,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/Devanshee-Gupta/Leetcode-SQL-50/tree/master/1827-invalid-tweets) |
 | [2057-count-salary-categories](https://github.com/Devanshee-Gupta/Leetcode-SQL-50/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Devanshee-Gupta/Leetcode-SQL-50/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Devanshee-Gupta/Leetcode-SQL-50/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
